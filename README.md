@@ -4,7 +4,7 @@
 
 - 🎓 Formado em Analise Desenvolvimento de Sistemas
 - :tada: Tenho 28 anos
- - ✉️ meu e-mail: lucas.ramos.oliveira260@gmail.com
+ - ✉️ meu e-mail: lucas.ramos.oliveira2680@gmail.com
 
   [![card](https://github-readme-stats.vercel.app/api?username=Lucasramos-ai&theme=tokyonight&show_icons=true)](https://github.com/Lucasraminhos96/)
   <br>
