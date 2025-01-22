@@ -6,7 +6,7 @@
 - :tada: Tenho 28 anos
  - ✉️ meu e-mail: lucas.ramos.oliveira2608@gmail.com
 
-  [![card](https://github-readme-stats.vercel.app/api?username=Lucasramos-ai&theme=tokyonight&show_icons=true)](https://github.com/Lucasraminhos96/)
+  [![card](https://github-readme-stats.vercel.app/api?username=Lucasraminhos96&theme=tokyonight&show_icons=true)](https://github.com/Lucasraminhos96/)
   <br>
   <br>
   [![Lucasraminhos96](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasraminhos96&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
